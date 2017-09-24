@@ -3,4 +3,8 @@ public class Helloworld {
 		System.out.println("Hello World!");
 		System.exit(0);
 	}
+
 }
+the output for this is :
+Helloworld!
+
